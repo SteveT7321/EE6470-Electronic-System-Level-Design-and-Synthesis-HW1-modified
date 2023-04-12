@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+2512fef7c571b3a21bd497f0128f091d CMakeFiles/check
+64ac86fff11b1fe6205bd6f7d67c78d2 CMakeFiles/run
+1da02bab15fabebaa34fd5a0add2dd04 cameraman_noise_out.bmp
+9a4dcd0495d3c68a3841324093043407 house_noise_out.bmp
